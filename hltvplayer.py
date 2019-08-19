@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 class Player:
 	# Player Statistics dictionary
 	Player_Statistics = {

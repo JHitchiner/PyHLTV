@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import requests
 from hltvparser import *
 from hltvplayer import *
